@@ -9,9 +9,9 @@
 ### 🤖 About Me
 
 I am a **Java Backend Developer** and **Full Stack Developer** with 1+ year of experience in building secure, scalable, and modern web applications.
-Currently pursuing B.Tech in IT at **LJ Institute of Engineering and Technology**, Surat.
+Currently pursuing B.Tech in IT at **LJ Institute of Engineering and Technology**, Ahmedabad.
 
-* 🎓 Final Year Student | 6th Semester
+* 🎓 3rd Year Student | 6th Semester
 * ✨ Passionate about Open Source, API Security, Microservices, and Real-Time Systems
 * 🚀 Actively contributing to personal and collaborative projects
 
