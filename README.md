@@ -140,4 +140,4 @@ A modular and secure microservice-based architecture managing student records an
 
 ---
 
-> *"Build things that matter. Learn endlessly."*
+ *"Build things that matter. Learn endlessly."*
