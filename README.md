@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jinjala-varun-2a11182b4)
 [![GitHub](https://img.shields.io/badge/GitHub-TechnicalJin-black?style=for-the-badge\&logo=github)](https://github.com/TechnicalJin)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/your-resume-link)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1CsNPwiV96-AjyMHMaapOCz8ki0uThQhJ/view?usp=sharing)
 
 ---
 
