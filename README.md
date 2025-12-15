@@ -1,117 +1,191 @@
-# Hi, I'm Varun Jinjala
+# Hi, I'm Varun Jinjala 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jinjala-varun-2a11182b4)
-[![GitHub](https://img.shields.io/badge/GitHub-TechnicalJin-black?style=for-the-badge&logo=github)](https://github.com/TechnicalJin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://yourportfolio.vercel.app/)
+**Java Backend Developer | Spring Boot | Scalable Systems | SaaS & E-Commerce**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jinjala-varun-2a11182b4)
+[![GitHub](https://img.shields.io/badge/GitHub-TechnicalJin-black?style=for-the-badge\&logo=github)](https://github.com/TechnicalJin)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/your-resume-link)
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Varun Jinjala**, a **Backend-focused Full Stack Developer** pursuing a B.Tech in Information Technology at **LJ Institute of Engineering and Technology**.  
-I'm passionate about building **secure**, **scalable**, and **real-time systems**, with a strong emphasis on **Spring Boot**, **microservices**, and **cloud-native** development. I specialize in crafting production-grade solutions and enjoy contributing to open-source and personal projects.
+I’m **Varun Jinjala**, a **Java Backend Developer** with **1+ year of hands-on experience** building **production-grade SaaS and e-commerce platforms** using **Spring Boot**, **REST APIs**, and **secure, scalable architectures**.
 
-- 📍 Based in Surat, currently interning while pursuing B.Tech in Ahmedabad
-- 🎓 3rd Year B.Tech (IT)  
-- 🔐 Specialized in Spring Security, REST APIs, and JWT  
-- 💼 Open to backend internships and freelance roles  
-- 🚀 Eager to learn and always building
+I specialize in:
 
----
+* Designing **multi-tenant backend systems**
+* Building **secure APIs** with **JWT + RBAC**
+* Integrating **third-party platforms** (Shopify, OpenAI, Razorpay)
+* Optimizing systems for **performance, reliability, and real business impact**
 
-## Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-black?style=flat-square)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-blue?style=flat-square)
+Currently working at **Karmanye Tech LLP**, where I build and scale real-world enterprise systems used by businesses.
 
 ---
 
-## Featured Projects
+## 🧠 Core Expertise
 
-### 🔐 Vaultiq – Secure Vault App  
-A secure, multi-device web vault for managing passwords, notes, API keys, and card information with **AES-256 encryption**, **WebSocket** updates, and **JWT**-based access control.
+### Backend & Architecture
 
-[Vaultiq GitHub](https://github.com/TechnicalJin/Vaultiq) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://vaultiq-demo.vercel.app/)
+* **Java 17**, **Spring Boot 3**, Spring MVC
+* REST API Design, Microservices Architecture
+* Spring Security (JWT, RBAC), Transaction Management
+* Hibernate / JPA, Pagination, Validation
 
-![Vaultiq Demo](https://yourdomain.com/vaultiq-demo.gif)
+### Databases & Caching
 
-**Tech Stack:** Spring Boot, React, Tailwind CSS, JWT, Redis, WebSocket  
-**Role:** Solo Developer | Built from scratch  
-**Highlights:** End-to-end encryption, real-time notification system, responsive UI
+* MySQL, SQL
+* Redis (caching, performance optimization)
 
----
+### Integrations & Platforms
 
-### 🏥 Healthcare Management System  
-A web-based hospital system for managing doctor-patient appointments with **real-time scheduling** and **notifications**.
+* Shopify API & Webhooks
+* OpenAI (ChatGPT) API
+* Razorpay Payment Gateway
+* Multi-Tenant SaaS Architecture
 
-[Healthcare System GitHub](https://github.com/TechnicalJin/Healthcare-Management-System) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://healthcare-demo.vercel.app/)
+### DevOps & Tooling
 
-![Healthcare Demo](https://github.com/TechnicalJin/Healthcare-Management-System/raw/main/demo.gif)
+* Git & GitHub, Maven
+* Docker
+* Postman
+* JUnit, Mockito
+* SLF4J / Logback
 
-**Tech Stack:** Spring Boot, Thymeleaf, WebSocket, MySQL  
-**Role:** Solo Developer | Built from scratch  
-**Highlights:** Real-time appointment updates, calendar integration, scalable architecture
+### Frontend (Supporting)
 
----
-
-## Other Notable Projects
-
-### 🧠 AI Review Generator  
-AI-based product review platform using OpenAI’s API, integrated into a secure backend with Spring Boot.
-
-> 🔒 Built at **Karmanye Tech LLP** – Private Repository  
-**Tech Stack:** Spring Boot, Spring Security, Chart.js, Thymeleaf, Tailwind CSS
-
----
-
-### 📚 Student & Library Management System  
-A modular and secure microservice-based architecture managing student records and library transactions.
-
-**Tech Stack:** Spring Boot, MapStruct, MySQL, JWT, Postman  
-**Role:** Solo Developer | Built from scratch  
+* Thymeleaf
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS, Bootstrap
 
 ---
 
-## 📘 Learning & 📄 Certifications
+## 🚀 Featured Projects
 
-### Currently Learning
-- Spring Cloud & Kafka (Enhancing Vaultiq’s real-time notifications)
-- GitHub Actions + Docker + CI/CD Pipelines
-- Advanced Java Design Patterns and Clean Code Practices
+---
 
-### Certifications
-- [✔️ Introduction to Java – LearnQuest (Coursera)](https://coursera.org/share/51b8a1f18c489ae82598173d05819632)
-- [✔️ Inheritance & Data Structures in Java – UPenn (Coursera)](https://coursera.org/share/897630bece9608523581ffa9822f48f3)
-- [✔️ HTML, CSS, JavaScript – Johns Hopkins (Coursera)](https://coursera.org/share/3dea0a58a4ee01f167ec81fba50ef407)
-- [✔️ EDA for ML – IBM (Coursera)](https://coursera.org/share/343660f56083f8e5af11c65f3a643d3f)
-- [✔️ AWS Cloud Technical Essentials – AWS (Coursera)](https://coursera.org/share/3a2047be190d8a349ae409513242b8bc)
+### 🧠 AI Review Generator (Enterprise Platform)
+
+**Associated with Karmanye Tech LLP**
+
+An **AI-powered, multi-tenant review generation platform** that automates creation of **authentic, brand-aligned customer reviews** for businesses.
+
+**Key Highlights**
+
+* Tag-driven prompt engine (primary + secondary tags)
+* Multiple output lengths (short / medium / long)
+* Review regeneration, history tracking & CSV export
+* Separate **Admin & Client portals**
+* Secure RBAC with session protection
+
+**Tech Stack**
+
+* Spring Boot 3.2.3, Java 17
+* MySQL, JPA/Hibernate
+* OpenAI API (Apache HTTP Client + Gson)
+* Thymeleaf
+* Spring Security, BCrypt
+
+**Business Impact**
+
+* Eliminated manual review writing
+* Reduced content creation cost significantly
+* Enabled scalable AI review generation for multiple clients
+
+> 🔒 Private enterprise repository
+
+---
+
+### 🏢 Enterprise Multi-Platform E-Commerce Management System (SaaS)
+
+**Associated with Karmanye Tech LLP**
+
+A **high-performance SaaS platform** that centralizes and automates e-commerce operations across **Shopify, Myntra, and Meesho**.
+
+**Core Capabilities**
+
+* Multi-platform sync (products, orders, inventory, customers)
+* Real-time updates via webhooks & async processing
+* SaaS subscription plans, billing cycles & usage limits
+* Secure JWT auth, RBAC, BCrypt & webhook signature validation
+* Analytics dashboards & notifications
+
+**Tech Stack**
+
+* Spring Boot 3, Java 17
+* React
+* MySQL, Redis
+* Docker
+* Webhooks, Async Processing
+
+**Business Impact**
+
+* Automated ~80% of seller manual operations
+* Unified multi-platform operations into a single dashboard
+* Enabled scalable SaaS monetization with tenant isolation
+
+---
+
+### 📚 JWT Student & Library Management System (Microservices)
+
+An **enterprise-grade, cloud-ready library management system** built using **Spring Boot microservices**.
+
+**Architecture**
+
+* Auth Service → JWT, RBAC, refresh tokens
+* Management Service → Student & enrollment APIs
+* Library Service → Books, loans, reservations, fines
+* API Gateway + Service Discovery
+
+**Key Features**
+
+* Stateless JWT security with method-level authorization
+* Automated loan & overdue workflows
+* Reservation lifecycle with one-click loan conversion
+* Multi-database MySQL setup
+
+**Impact**
+
+* 93% faster checkout workflows
+* 80% reduction in lost books
+* Built to scale for 10,000+ students
+
+---
+
+## 🌐 Frontend & UI Projects
+
+### 🛒 ModernShop — Modern E-Commerce Web App
+
+* Pure **HTML, CSS, ES6+ JavaScript** (no frameworks)
+* Premium UI/UX, animations, lightbox, responsive design
+* Conversion-optimized layout & interactions
+
+### 🍔 Prose Development — Premium Food Web App
+
+* Persistent LocalStorage cart
+* Category filtering, checkout-ready flow
+* Performance & accessibility optimized
+* Backend-ready architecture
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (Information Technology)**
+L. J. Institute of Engineering and Technology
+*2022 – Present*
+
+---
+
+## 📜 Certifications
+
+* Introduction to Java — LearnQuest
+* AWS Cloud Technical Essentials — AWS
+* Inheritance & Data Structures in Java — University of Pennsylvania
+* Building Generative AI-Powered Applications — IBM
+* Exploratory Data Analysis for Machine Learning — IBM
+* HTML, CSS & JavaScript for Web Developers
 
 ---
 
@@ -124,20 +198,14 @@ A modular and secure microservice-based architecture managing student records an
 
 ---
 
-## 💼 Currently Open To
+## 🤝 Connect With Me
 
-- Backend Developer Job Roles  
-- Remote Freelance Projects (Spring Boot / REST APIs / Microservices)  
-- Open Source Collaborations
-
----
-
-## 🤝 Connect with Me
-
-- 📧 Email: [varunjinjala@gmail.com](mailto:varunjinjala@gmail.com)  
-- 🔗 LinkedIn: [jinjala-varun](https://www.linkedin.com/in/jinjala-varun-2a11182b4)  
-- 💻 GitHub: [TechnicalJin](https://github.com/TechnicalJin)
+* 📧 Email: **[varunjinjala.company@gmail.com](mailto:varunjinjala.company@gmail.com)**
+* 🔗 LinkedIn: [jinjala-varun](https://www.linkedin.com/in/jinjala-varun-2a11182b4)
+* 💻 GitHub: [TechnicalJin](https://github.com/TechnicalJin)
 
 ---
 
- *"Build things that matter. Learn endlessly."*
+> **“I build backend systems that scale, secure business data, and automate real-world workflows.”**
+
+---
