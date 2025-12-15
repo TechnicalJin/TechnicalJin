@@ -12,7 +12,7 @@
 
 I’m **Varun Jinjala**, a **Java Backend Developer** with **1+ year of hands-on experience** building **production-grade SaaS and e-commerce platforms** using **Spring Boot**, **REST APIs**, and **secure, scalable architectures**.
 
-I specialize in:
+Key areas I work on:
 
 * Designing **multi-tenant backend systems**
 * Building **secure APIs** with **JWT + RBAC**
@@ -61,7 +61,7 @@ Currently working at **Karmanye Tech LLP**, where I build and scale real-world e
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ---
 
@@ -124,6 +124,8 @@ A **high-performance SaaS platform** that centralizes and automates e-commerce o
 * Automated ~80% of seller manual operations
 * Unified multi-platform operations into a single dashboard
 * Enabled scalable SaaS monetization with tenant isolation
+
+> 🔒 Private enterprise repository
 
 ---
 
@@ -189,12 +191,11 @@ L. J. Institute of Engineering and Technology
 
 ---
 
-## 📊 GitHub Stats
+### Design Principles
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=TechnicalJin&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalJin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Explicit > Implicit  
+- Secure by default  
+- Handle the unhappy path first
 
 ---
 
