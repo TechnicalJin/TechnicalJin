@@ -20,7 +20,7 @@
 
 ---
 
-## `$ whoami`
+## `@GetMapping("/about-me")`
 
 I'm **Varun Jinjala** — a Java Backend Developer with **1+ year of hands-on experience** building production-grade **SaaS and e-commerce platforms**. Currently at **Karmanye Tech LLP**, I engineer backend systems that scale under real business pressure.
 
@@ -34,7 +34,7 @@ What I focus on:
 
 ---
 
-## `$ cat skills.json`
+## `@Bean // TechStack`
 
 <table>
 <tr>
@@ -93,7 +93,7 @@ What I focus on:
 
 ---
 
-## `$ ls -la projects/`
+## `@Service // ProjectRegistry`
 
 ### 🧠 AI Review Generator · *Enterprise Platform*
 > **@ Karmanye Tech LLP** &nbsp;|&nbsp; 🔒 Private Enterprise Repository
@@ -162,7 +162,7 @@ An **enterprise-grade, cloud-ready library management system** built using Sprin
 
 ---
 
-## `$ ls projects/frontend/`
+## `@Controller // FrontendProjects`
 
 <table>
 <tr>
@@ -188,14 +188,14 @@ An **enterprise-grade, cloud-ready library management system** built using Sprin
 
 ---
 
-## `$ cat education.txt`
+## `@Entity // Education`
 
 🎓 **Bachelor of Technology — Information Technology**
 L. J. Institute of Engineering and Technology &nbsp;·&nbsp; `2022 – Present`
 
 ---
 
-## `$ ls certifications/`
+## `@Repository // Certifications`
 
 | Certificate | Issuer |
 |---|---|
@@ -208,7 +208,7 @@ L. J. Institute of Engineering and Technology &nbsp;·&nbsp; `2022 – Present`
 
 ---
 
-## `$ cat principles.md`
+## `@Component // DesignPrinciples`
 
 ```java
 // Design Principles
@@ -219,7 +219,7 @@ assert unhappyPathHandledFirst == true;
 
 ---
 
-## `$ ./connect.sh`
+## `@RestController // ConnectWithMe`
 
 <div align="center">
 
