@@ -204,7 +204,7 @@ L. J. Institute of Engineering and Technology &nbsp;·&nbsp; `2022 – Present`
 | Inheritance & Data Structures in Java | University of Pennsylvania |
 | Building Generative AI-Powered Applications | IBM |
 | Exploratory Data Analysis for Machine Learning | IBM |
-| HTML, CSS & JavaScript for Web Developers | — |
+| HTML, CSS & JavaScript for Web Developers | Johns Hopkins University |
 
 ---
 
