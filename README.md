@@ -11,7 +11,7 @@ Building secure, production-oriented backend systems with **Java, Spring Boot, M
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jinjala-varun-2a11182b4)
 [![GitHub](https://img.shields.io/badge/GitHub-TechnicalJin-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TechnicalJin)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:varunjinjala.company@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BcGLGgo46Dwxhi3HjBn_zmB7c4IqMxQp/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EsvXOLtZ5XvgwxJJxlhSG_vHHRRWed6n/view?usp=sharing)
 
 </div>
 
