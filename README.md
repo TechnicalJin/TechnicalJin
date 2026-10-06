@@ -19,7 +19,7 @@ Building secure, production-oriented backend systems with **Java, Spring Boot, M
 
 ## 👨‍💻 About Me
 
-I'm **Varun Jinjala**, a **Java Backend Developer with 1.5 years of professional experience** building secure and scalable backend applications.
+I'm **Varun Jinjala**, a **Java Backend Developer with 2 years of professional experience** building secure and scalable backend applications.
 
 My professional and personal work focuses on:
 
